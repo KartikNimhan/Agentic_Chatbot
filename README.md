@@ -42,7 +42,7 @@ This project demonstrates three powerful use cases:
 
 ```bash
 git clone https://github.com/KartikNimhan/Agentic_Chatbot.git
-cd langgraph-agentic-ai
+cd Agentic_Chatbot
 ```
 
 ### 2. Install dependencies
