@@ -41,7 +41,7 @@ This project demonstrates three powerful use cases:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-repo/langgraph-agentic-ai.git
+git clone https://github.com/KartikNimhan/Agentic_Chatbot.git
 cd langgraph-agentic-ai
 ```
 
