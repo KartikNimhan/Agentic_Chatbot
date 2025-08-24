@@ -1,0 +1,26 @@
+## Weekly AI News Summary (Aug 24, 2025)
+
+### 2025-08-23
+- [AI in Education, Health And Agriculture Can Transform India, Says ASSOCHAM](https://zeenews.india.com/education/ai-in-education-health-and-agriculture-can-transform-india-says-assocham-2950306.html) – At the 8th Global AI Leadership Meet 2025, Indian leaders highlighted the country’s talent pool but warned that gaps in original research and semiconductor self‑reliance must be bridged through responsible AI adoption and stronger public‑private collaboration.  
+- [Decimal Point Analytics Launches DocuAgentIQ](https://markets.businessinsider.com/news/stocks/decimal-point-analytics-launches-docuagentiq---agentic-ai-platform-transforming-document-workflows-in-sba-cre-lending-1035067944) – The firm unveiled DocuAgentIQ, an agentic AI platform that automates the full document lifecycle for SBA and CRE lending, aiming to cut time‑to‑close and boost accuracy.  
+- [Google picks India for early rollout of AI‑powered flight deals tool](https://skift.com/2025/08/18/google-picks-india-for-early-rollout-of-ai-powered-flight-deals-tool/) – Google is launching its AI‑powered Flight Deals tool in India, the U.S., and Canada, underscoring the country’s rapid adoption of AI in travel planning.
+
+### 2025-08-22
+- [OpenAI Expands to India with New Delhi Office](https://www.startupecosystem.ca/news/openai-expands-to-india-with-new-delhi-office/) – OpenAI announced plans to open its first office in New Delhi, establishing a legal entity and hiring a local team to meet growing demand for AI in India.  
+- [OpenAI to Open New Delhi Office as It Bulks Up India Presence – WSJ](https://www.wsj.com/tech/ai/openai-to-open-new-delhi-office-as-it-bulks-up-india-presence-e4c059c4?gaa_at=eafs&gaa_n=ASWzDAgwQD10kg8JuKbah_We7gv4AZd3u-T0NXcIrCBcPK3UzuEqrvCpGiiW&gaa_ts=68a7ffeb&gaa_sig=U3jRaKsMURMwSM4BHduMEJLJiai4EFPcGpcikw_n-cLLSPSLrrwlpB9igJFRG_GYiXVSKTUfBOvND5SmTnBZSQ%3D%3D) – OpenAI is establishing a New Delhi office as part of its strategy to meet demand from one of its largest developer markets.  
+- [Microsoft’s AI chief said studying artificial intelligence is dangerous](https://zamin.uz/en/technology/158069-microsoftning-ai-rabari-sunij-ongni-rganish-hatarli-dedi.html) – Microsoft’s AI chief warned that research into artificial consciousness requires caution, citing potential serious consequences from small mistakes.  
+- [Quick Hits in AI News: In‑Person Interviews Make a Comeback](https://www.shrm.org/topics-tools/flagships/ai-hi/quick-hits-august-25) – SHRM reports that generative AI adoption remains low, but job losses are concentrated in tech and design, while demand for workers who can manage AI systems is rising.
+
+### 2025-08-21
+- [AI as a Farming Ally: Fadnavis Highlights Role of Technology in Agriculture](https://www.thebridgechronicle.com/news/ai-farming-ally-fadnavis-technology-role-agriculture) – Maharashtra CM Devendra Fadnavis announced state support for AI in agriculture, pledging funding to promote AI technologies that improve farming profitability.  
+- [GAIL Launches ‘AI Tarang’ Initiative at GTI Noida](https://indianmasterminds.com/news/gail-launches-ai-tarang-initiative-at-gti-noida-to-promote-ai-literacy-and-build-a-future-ready-tech-savvy-workforce-know-more-138788/) – GAIL inaugurated the AI Tarang literacy initiative at its GTI in Noida to build an AI‑savvy workforce and promote AI literacy among employees.  
+- [NHS Trials AI Tool to Expedite Hospital Discharges](https://www.startupecosystem.ca/news/nhs-trials-ai-tool-to-expedite-hospital-discharges/) – NHS UK is piloting an AI tool at Chelsea and Westminster Hospital to accelerate patient discharge processes and free up beds.
+
+### 2025-08-19
+- [Google picks India for early rollout of AI‑powered flight deals tool](https://skift.com/2025/08/18/google-picks-india-for-early-rollout-of-ai-powered-flight-deals-tool/) – Google is launching its AI‑powered Flight Deals tool in India, the U.S., and Canada, reflecting India’s rapid adoption of AI in travel planning.  
+- [Deel launches AI Workforce](https://businessnewsthisweek.com/technology/deel-launches-ai-workforce/) – Deel unveiled its AI Workforce platform, allowing businesses to deploy AI agents across HR, payroll, talent acquisition, and operations, integrating AI into core workflows.  
+- [Adani Says AI Will Reshape Power Balance](https://www.bwmarketingworld.com/article/adani-says-ai-will-reshape-power-balance-stresses-indian-self-reliance-567835-567863) – Adani highlighted that AI will reshape the power sector and stressed the need for Indian self‑reliance, noting the private sector’s lag in research and innovation.
+
+### 2025-08-18
+- [White paper: AI for fraud detection in financial services](https://www.fintechfutures.com/ai-in-fintech/white-paper-ai-for-fraud-detection-in-financial-services) – The white paper discusses AI‑powered transaction monitoring solutions, such as ThetaRay, for fraud detection in financial services.  
+- [Healthcare AI strategy tips from physician AI leader](https://www.mobihealthnews.com/video/healthcare-ai-strategy-tips-physician-ai-leader) – A physician shares best practices for integrating AI into clinical workflows, offering guidance on building effective healthcare AI strategies.
