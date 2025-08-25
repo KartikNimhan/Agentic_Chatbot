@@ -1,7 +1,8 @@
 import streamlit as st
 from langchain_core.messages import HumanMessage, AIMessage, ToolMessage
 from src.langgraphagenticai.tools.search_tool import get_tools
-
+from langchain_core.messages import HumanMessage
+''
 
 class DisplayResultStreamlit:
     def __init__(self, usecase, graph, user_message):
@@ -17,7 +18,8 @@ class DisplayResultStreamlit:
         print("User message:", user_message)
 
         if usecase == "Basic Chatbot":
-            for event in graph.stream({'messages': ("user", user_message)}):
+            # for event in graph.stream({'messages': ("user", user_message)}):
+            for event in graph.stream({"messages": [HumanMessage(content=user_message)]}):
                 for value in event.values():
                     print(value['messages'])
                     with st.chat_message("user"):
@@ -32,8 +34,10 @@ class DisplayResultStreamlit:
                 tools = get_tools()  # fallback to get tools
 
             # Prepare state and invoke the graph with tools
-            initial_state = {"messages": [user_message]}
-            res = graph.invoke(initial_state, tools=tools)
+            # initial_state = {"messages": [user_message]}
+            # res = graph.invoke(initial_state, tools=tools)
+            initial_state = {"messages": [HumanMessage(content=user_message)]}
+            res = graph.invoke(initial_state)   # removed tools=tools
 
             # Display messages in Streamlit chat
             for message in res['messages']:
@@ -52,7 +56,8 @@ class DisplayResultStreamlit:
         elif usecase=="AI News":
             frequency=self.user_message
             with st.spinner("Fetching and summarizing news..."):
-                result=graph.invoke({"messages":frequency})
+                # result=graph.invoke({"messages":frequency})
+                result = graph.invoke({"messages": [HumanMessage(content=frequency.lower())]})
                 try:
                     AI_NEWS_PATH=f"./AINews/{frequency.lower()}_summary.md"
                     with open(AI_NEWS_PATH,"r") as file:
